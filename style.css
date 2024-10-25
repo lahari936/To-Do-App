@@ -1,0 +1,59 @@
+*{
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content: center;
+     
+}
+
+
+body{
+    
+    width:50%;
+    height:30rem;
+    border:solid,black,2px;
+    justify-content: center;
+    align-self:center;
+    background-color:white;
+    align-items: center;
+    display: flex;
+ flex-direction: column;
+ 
+ 
+    
+    
+}
+
+
+
+
+h1{
+    height: 3 rem;
+    align-content: center;
+    color: white;
+    background-color: rgb(239, 176, 99);
+    align-self:center;
+    align-items: top;
+    align-content: top;
+    text-align: center;
+    justify-content: top;
+    
+}
+
+button{
+    background-color: darkorange;
+    border-radius: 2rem;
+    margin: 10px;
+    padding:2px;
+    
+   
+}
+.delete{
+    text-decoration:dotted;
+}
+
+ul{
+    background-color: white;
+}
+li{
+    background-color: white;
+}
